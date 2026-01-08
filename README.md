@@ -151,6 +151,20 @@ https://github.com/user-attachments/assets/bc1d9515-07e6-4ee8-a613-5a22814df1b7
 
 <br>
 
+<h2>Business Recommendations</h2>
+<ul>
+  <li><strong>Recover 2025 sales:</strong> Win-back inactive customers and boost repeat orders.</li>
+  <li><strong>Scale winners:</strong> Invest in <strong>Multan</strong> + top cuisines (Italian/Fast Food/Continental) with partnerships and bundles to raise AOV.</li>
+  <li><strong>Win peak season:</strong> Plan winter/festive promos with enough delivery capacity.</li>
+  <li><strong>Cut churn:</strong> Target teens & males with stronger loyalty rewards.</li>
+  <li><strong>Fix delivery pain points:</strong> Reduce delays/cancellations in <strong>Lahore</strong> & <strong>Islamabad</strong> to improve ratings and retention.</li>
+</ul>
+
+
+
+<hr>
+
+
 ## Tools & Technologies Used
 
 <p align="center">
